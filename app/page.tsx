@@ -9,12 +9,12 @@ export default function Home() {
           src="/next.svg"
           alt="Next.js logo"
           width={100}
-          height={20}
+          height={20} 
           priority
         />
         <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
           <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the{" "}
+            EMPEZAMOS, edit the{" "}
             <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
               page.tsx
             </code>{" "}
